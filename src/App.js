@@ -1,8 +1,10 @@
 import StateTutorial from "./Components/StateTutorial";
+import InputValue from "./Components/InputValue";
 function App() {
   return (
     <div >
-       <StateTutorial></StateTutorial>
+       {/* <StateTutorial></StateTutorial> */}
+       <InputValue></InputValue>
     </div>
   );
 }
